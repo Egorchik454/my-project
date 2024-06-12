@@ -13,7 +13,7 @@ body {
     width: 1150px;
     height: 650px;
     height: 500px;
-    background-image: url('../mateials/photo_1.jpg');
+    background-image: url('mateials/photo_1.jpg');
     background-repeat: no-repeat;
     margin-bottom: 150px;
 
@@ -68,7 +68,7 @@ body {
 
 .button-1-text-2 {
     box-sizing: border-box;
-    width: 1048px;
+    width: 1100px;
     font-weight: normal;
     font-size: 45px;
     line-height: 62px;
@@ -84,6 +84,12 @@ body {
 
 }
 
+.conteiner-3-text-h2 {
+    font-weight: 400;
+    font-size: 18px;
+
+}
+
 .container-3-photo {
     width: 1150px;
     height: 450px;
@@ -91,17 +97,81 @@ body {
 }
 
 .text-2 {
-    margin-top: 15px;
+    padding-bottom: 15px;
     margin-bottom: 2px;
-    width: 501px;
+    width: 700px;
     height: 41px;
+    font-size: 30px;
 }
 
 .conteiner-3-btn {
     width: 127px;
     height: 27px;
+    font-size: 20px;
     text-decoration: none;
     color: #AD1818;
+
+}
+
+.btn {
+    margin-top: 90px;
+
+    text-decoration: none;
+
+
+}
+
+.btn__1 {
+    display: block;
+    text-decoration: none;
+    border: 1px solid #AD1818;
+    width: 100%;
+    height: 153px;
+    font-weight: 400;
+    font-size: 30px;
+    text-align: center;
+    line-height: 165px;
+    color: #AD1818;
+    margin-bottom: 150px;
+    
+}
+
+.btn__1:hover {
+    background-color: #AD1818;
+    color: #FFFFFF;
+}
+
+.section_4 {
+    width: 100%;
+    background-color: #121212;
+}
+
+.section_4-h3{
+    padding-top: 1500px;
+    font-weight: 400px;
+    font-size: 18px;
+    color: #FFFFFF;
+    padding-top: 60px;
+}
+
+.section_4-block2 {
+    margin: 0 auto;
+    width: 1150px;
+}
+
+.section_4-text {
+    color: #FFFFFF;
+    font-weight: normal;
+    font-size: 30px;
+    margin-bottom: 60px;
+    margin-top: 15px;
+}
+
+.section_4-text-4 {
+    color: #FFFFFF;
+    font-weight: normal;
+    font-size: 30px;
+    padding-bottom: 150px;
 }
 
 
