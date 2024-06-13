@@ -2,6 +2,58 @@ body {
     font-family: 'Manrope', sans-serif;
 }
 
+.nav_1 {
+    display: block;
+    margin: 0 auto;
+    width: 1180px;
+   
+}
+
+.nav_1-photo_1 {
+    display: inline-block;
+    width: 127px;
+    height: 26px;
+    padding-right:   559px;
+   padding-top: 33px;
+}
+
+.nav_1-text {
+    display: inline-block;
+    color: #AD1818;
+}
+
+.nav_1-text_1 {
+    margin-right: 60px;
+    width: 51px;
+    height: 25px;
+    font-size: 18px;
+    color: #121212;
+    opacity: 0.5;
+}
+.nav_1-text_2 {
+    margin-right: 60px;
+    width: 79px;
+    height: 25px;    
+    color: #121212;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.nav_1-text_3 {
+    margin-right: 60px;
+    width: 66px;
+    height: 25px;
+    color: #121212;
+    font-size: 18px;
+    text-decoration: none;
+}
+.nav_1-text_4 {
+    width: 90px;
+    height: 25px;
+    color: #121212;
+    font-size: 18px;
+    text-decoration: none;
+}
 .container {
     margin: 0 auto;
     width: 1150px;
@@ -33,12 +85,13 @@ body {
 }
 
 .photo-text {
+    position: relative;
+    top: 379px;
+    left: 40px;
     font-size: 20px;
     font-weight: normal;
     line-height: 27.32px;
     color: #FFFFFF;
-    padding-left: 40px;
-    padding-top: 379px;
     padding-right: 680px;
     letter-spacing: -0.03em;
 }
